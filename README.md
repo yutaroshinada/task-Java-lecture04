@@ -1,7 +1,11 @@
 # task-Java-lecture04
 
-①ListをStresmを使って表現
+## ①第4回講義課題
 
-②拡張for文 (entrySetメソッドでMapのキーと値の両方を取得)
+ListをStresmを使って表現
 
- Mapの変数名をmenusMapからmenusPriceに変更 → 変数名からkeyとvalueをイメージしやすいように!
+## ②第3回講義課題の修正
+
+拡張for文 (entrySetメソッドでMapのキーと値の両方を取得)
+
+Mapの変数名をmenusMapからmenusPriceに変更 → 変数名からkeyとvalueをイメージしやすいように!
