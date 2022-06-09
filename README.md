@@ -4,4 +4,4 @@
 
 ②拡張for文 (entrySetメソッドでMapのキーと値の両方を取得)
 
-Mapの変数名をmenusMapからmenusPriceに変更 → 変数名からkeyとvalueをイメージしやすいように!
+ Mapの変数名をmenusMapからmenusPriceに変更 → 変数名からkeyとvalueをイメージしやすいように!
