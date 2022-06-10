@@ -6,4 +6,3 @@
 
 【Menus.javaを追加】  
 ①Enumクラスを用いてMapを表現
-
