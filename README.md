@@ -1,4 +1,4 @@
-# task-Java-lecture04
+# task-Java-lecture05
 
 【MainR.javaを修正】  
 ①命名をmenusからmenuListに変更  
@@ -6,3 +6,5 @@
 
 【Menus.javaを追加】  
 ①Enumクラスを用いてMapを表現
+
+上記の内容をpull request
