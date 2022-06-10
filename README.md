@@ -1,7 +1,9 @@
 # task-Java-lecture04
 
-①ListをStresmを使って表現
+【MainR.javaを修正】  
+①命名をmenusからmenuListに変更  
+②MapをStreamを使って表現
 
-②拡張for文 (entrySetメソッドでMapのキーと値の両方を取得)
+【Menus.javaを追加】  
+①Enumクラスを用いてMapを表現
 
-Mapの変数名をmenusMapからmenusPriceに変更 → 変数名からkeyとvalueをイメージしやすいように!
